@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tosinkoa" alt="tosinkoa" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://paulojo-portfolio.netlify.app/](https://paulojo-portfolio.netlify.app/)
+- 👨‍💻 Here is my portfolio link [https://paulojo-portfolio.netlify.app/](https://paulojo-portfolio.netlify.app/)
 
 - 💬 Ask me about **Nodejs, Nextjs, Reactjs, JavaScript, and more related stuff**
 
