@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h1 align="center">Hi 👋, I'm Paul Ojo</h1>
 
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">I am a passionate Software Engineer with strong background in Backend and Frontend development, skilled at implementing efficient, scalable, and reliable software solutions that meet the needs of users. I have a passion for solving complex problems and a commitment to staying up-to-date with the latest trends and technologies in the field.</h3>
 
 
 
