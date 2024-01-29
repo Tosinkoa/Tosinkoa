@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Nodejs, Nextjs, Reactjs, JavaScript, and more related stuff**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yxyfkTB5xiUAFkc8mluZuMICl2KUJUG6/view?usp=drivesdk](https://drive.google.com/file/d/1zcpuEcV4C9D5im2LkJG0encWj9uHbrMc/view?usp=drivesdk)
-
 - ⚡ Fun fact **I like to stay up-to-date with the latest trends and techniques**
 
 <h3 align="left">Connect with me:</h3>
