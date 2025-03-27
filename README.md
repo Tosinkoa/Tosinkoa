@@ -146,12 +146,6 @@
   </div>
 </div>
 
-<!-- Animated Snake Contribution Graph -->
-<div align="center">
-  <h2>Contribution Activity</h2>
-  <img src="https://github.com/{YOUR_USERNAME}/.github/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
-</div>
-
 <!-- Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
