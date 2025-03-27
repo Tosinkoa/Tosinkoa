@@ -65,7 +65,7 @@
   
   <!-- GitHub Trophies -->
   <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=tosinkoa&theme=radical&no-frame=true&no-bg=true&margin-w=5&row=1&column=6" width="98%" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tosinkoa&theme=radical&no-frame=true&no-bg=true&margin-w=5&row=1&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="98%" alt="GitHub Trophies" />
   </div>
   
   <!-- GitHub Activity Graph -->
