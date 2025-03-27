@@ -13,10 +13,6 @@
     <img src="https://img.shields.io/badge/Languages-English-05FFA1?style=for-the-badge" alt="Languages" />
   </div>
   
-  <!-- Profile Image & Social Media -->
-  <br>
-  <img width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
-  
   <!-- Social Media Icons with Hover Effect -->
   <div>
    <a href="https://x.com/PaulOjo312" target="_blank">
