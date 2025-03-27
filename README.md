@@ -19,10 +19,10 @@
   
   <!-- Social Media Icons with Hover Effect -->
   <div>
-    <a href="https://twitter.com/paulojo321" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+   <a href="https://x.com/PaulOjo312" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
     </a>
-    <a href="https://linkedin.com/in/paul-ojo" target="_blank">
+    <a href="https://www.linkedin.com/in/paulojooluwatosin" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
     </a>
     <a href="https://paul-ojo-portfolio.vercel.app" target="_blank">
