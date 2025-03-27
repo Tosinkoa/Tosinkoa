@@ -9,8 +9,6 @@
   <!-- Profile Highlights -->
   <div>
     <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-FF71CE?style=for-the-badge" alt="Focus" />
-    <img src="https://img.shields.io/badge/Lives-Nigeria-01CDFE?style=for-the-badge" alt="Lives" />
-    <img src="https://img.shields.io/badge/Languages-English-05FFA1?style=for-the-badge" alt="Languages" />
   </div>
   
   <!-- Social Media Icons with Hover Effect -->
