@@ -49,31 +49,6 @@
   </p>
 </div>
 
-<!-- GitHub Stats Dashboard -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30">
-    GitHub Stats
-  </h2>
-  
-  <!-- Three-column stats with consistent styling -->
-  <div>
-    <img width="32%" src="https://github-readme-stats.vercel.app/api?username=tosinkoa&show_icons=true&count_private=true&hide_border=true&title_color=FF71CE&icon_color=01CDFE&text_color=EBEBEB&bg_color=0D1117" alt="GitHub Stats" />
-    <img width="32%" src="https://streak-stats.demolab.com?user=tosinkoa&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&fire=FF71CE&currStreakLabel=01CDFE&sideLabels=EBEBEB" alt="GitHub Streak" />
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tosinkoa&layout=compact&hide_border=true&title_color=FF71CE&text_color=EBEBEB&bg_color=0D1117" alt="Top Languages" />
-  </div>
-  
-  <!-- GitHub Trophies -->
-  <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=tosinkoa&theme=radical&no-frame=true&no-bg=true&margin-w=5&row=1&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="98%" alt="GitHub Trophies" />
-  </div>
-  
-  <!-- GitHub Activity Graph -->
-  <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tosinkoa&bg_color=0D1117&color=FF71CE&line=01CDFE&point=EBEBEB&area=true&hide_border=true" width="98%" alt="Activity Graph" />
-  </div>
-</div>
-
 <!-- Tech Arsenal Section with Compact Layout -->
 <div align="center">
   <!-- Colorful Divider -->
@@ -174,7 +149,7 @@
 <!-- Animated Snake Contribution Graph -->
 <div align="center">
   <h2>Contribution Activity</h2>
-  <img src="https://github.com/salmandraji/salmandraji/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
+  <img src="https://github.com/{YOUR_USERNAME}/.github/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
 </div>
 
 <!-- Animated Footer -->
