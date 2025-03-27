@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-- 👨‍💻 Here is my portfolio link [https://paulojo-portfolio.netlify.app/](https://paulojo-portfolio.netlify.app/)
+- 👨‍💻 Here is my portfolio link [https://paulojo-portfolio.netlify.app/](https://paul-ojo-portfolio.vercel.app/)
 
 - 💬 Ask me about **Nodejs, Nextjs, Reactjs, JavaScript, and more related stuff**
 
