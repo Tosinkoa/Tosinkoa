@@ -131,7 +131,7 @@
       <img src="https://img.shields.io/badge/👨‍💻_Portfolio-4285F4?style=for-the-badge&logoColor=white" alt="Portfolio">
     </a>
     <a>
-      <img src="https://img.shields.io/badge/💬_Ask_me_about-Nodejs,_Nextjs,_Reactjs-1DA1F2?style=for-the-badge&logoColor=white" alt="Ask me about">
+      <img src="https://img.shields.io/badge/💬_Ask_me_about-Nodejs,_Nextjs,_Reactjs,_React_Native,_Expo-1DA1F2?style=for-the-badge&logoColor=white" alt="Ask me about">
     </a>
     <a>
       <img src="https://img.shields.io/badge/⚡_Fun_fact-I_stay_up--to--date_with_latest_trends-FFA116?style=for-the-badge&logoColor=white" alt="Fun fact">
