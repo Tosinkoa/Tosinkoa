@@ -9,16 +9,16 @@
 </p>
 
 <div>
-  <a href="https://www.linkedin.com/in/paulojooluwatosin" target="_blank">
+  <a href="https://www.linkedin.com/in/paulojooluwatosin" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/PaulOjo312" target="_blank">
+  <a href="https://x.com/PaulOjo312" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
   </a>
-  <a href="https://paul-ojo-portfolio.vercel.app" target="_blank">
+  <a href="https://paul-ojo-portfolio.vercel.app" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:paulojooluwatosin@gmail.com">
+  <a href="mailto:paulojooluwatosin@gmail.com" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -85,8 +85,7 @@ I run production systems on bare-metal Hetzner VPS with Docker, Caddy, Tailscale
 
 <div align="center">
 
-<img height="160" src="https://streak-stats.demolab.com?user=tosinkoa&theme=github-dark&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tosinkoa&theme=github_dark&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
+<img src="https://streak-stats.demolab.com?user=tosinkoa&theme=github-dark&hide_border=true" />
 
 </div>
 
