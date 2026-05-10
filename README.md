@@ -5,7 +5,7 @@
 </a>
 
 <p>
-  Building production backend systems — APIs, distributed queues, real-time infrastructure, and DevOps on bare metal.
+  Building production backend systems: APIs, distributed queues, real-time infrastructure, and DevOps on bare metal.
 </p>
 
 <div>
@@ -29,7 +29,7 @@
 
 ## About
 
-Senior fullstack engineer with a strong backend focus. I work across the full stack but live on the backend — designing APIs, managing infrastructure, and building systems that hold up under real production load.
+Senior fullstack engineer with a strong backend focus. I work across the full stack but live on the backend, designing APIs, managing infrastructure, and building systems that hold up under real production load.
 
 I run production systems on bare-metal Hetzner VPS with Docker, Caddy, Tailscale, and GitHub Actions CI/CD. I care about how software is deployed and operated, not just how it's written.
 
