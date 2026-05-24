@@ -88,9 +88,3 @@ I run production systems on bare-metal Hetzner VPS with Docker, Caddy, Tailscale
 <img src="https://streak-stats.demolab.com?user=tosinkoa&theme=github-dark&hide_border=true" />
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tosinkoa&style=flat-square&color=4493F8" alt="Profile views" />
-</div>
